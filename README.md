@@ -19,7 +19,7 @@ Personalized health content recommendations using deep learning.
 
 ---
 
-### Quick requirements.txt:
+
 ```
 tensorflow>=2.0
 numpy
